@@ -13,12 +13,19 @@ I'm a Cybersecurity  student with hands on experience in network setup, security
 
    
 
-##  Skills
-  Security Threat analysis, access control, log parsing
-  Networking: TCP/IP, routing, DNS, DHCP, wireless config
-  Tools: Wireshark, Splunk, Kali Linux, Cisco Packet Tracer
-  Languages: Python (strong), Bash (intermediate), Java (basic)
-  Systems: Windows Server, Linux, Raspberry Pi
+## Technical Skills
+- **Security Threat analysis, access control, log parsing
+- **Networking: TCP/IP, routing, DNS, DHCP, wireless config
+- **Tools: Wireshark, Splunk, Kali Linux, Cisco Packet Tracer
+- **Languages: Python (strong), Bash (intermediate), Java (basic)
+- **Systems: Windows Server, Linux, Raspberry Pi
+- **Security Systems:** LenelS2, Honeywell, Genetec, Avigilon, Bosch (VMS, Access Control)
+- **Low Voltage Electrical Systems:** Design, installation, testing, and troubleshooting
+- **Tools:** Multimeter, cable testers, punch-down tools, power drills
+- **Networking:** TCP/IP, VLANs, PoE, device provisioning
+- **Documentation:** SOPs, service records, invoice management, audit reports
+- **Digital Forensics Tools & Techniques: FTK, Autopsy, EnCase, Volatility, Cellebrite, Wireshark, log2timeline, memory/disk imaging, timeline, registry, mobile, and network forensics.
+- **Scripting & Platforms: Python, PowerShell, Bash, Windows/Linux internals, SIEM (Splunk/ELK), Sysinternals, RegRipper, TSK, VM analysis, cloud log forensics (AWS/Azure).
 
   
 
