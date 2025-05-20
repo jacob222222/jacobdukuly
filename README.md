@@ -10,7 +10,7 @@ Aspiring Cybersecurity Analyst | Networking Enthusiast | Python Scripter
 
 
 ##  About Me
-I'm a Cybersecurity Associate student with hands on experience in network setup, security systems, and log analysis. My goal is to secure infrastructure and respond to real world threats with scalable, practical solutions. I'm currently studying in Texas and open to internship opportunities.
+I'm a Cybersecurity  student with hands on experience in network setup, security systems, and log analysis. My goal is to secure infrastructure and respond to real world threats with scalable, practical solutions. I'm currently studying in Texas and open to internship opportunities.
 
    
 
