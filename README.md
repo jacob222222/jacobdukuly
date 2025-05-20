@@ -56,8 +56,15 @@ More coming soon...
 
 ###  Network Intern – Duke Developers
 Spring 2024
-  Installed and configured wireless systems for campus network
-  Managed physical setup and team coordination
+
+ Installed and configured wireless systems for campus network
+ Managed physical setup and team coordination
+
+Supported Tier 1–3 network operations by provisioning, implementing, and validating networking services. Managed enterprise network infrastructures using tools like SolarWinds, OpManager, Ansible, NetBox, and cloud-based solutions. Worked extensively with Layer 2/3 protocols (e.g., OSPF, BGP, VLANs, VRRP, EVPN-VXLAN) and performed infrastructure cabling in virtualized environments.
+
+Developed automation scripts using Python, Bash, and Terraform to enhance deployment and monitoring. Demonstrated strong skills in managing multi-vendor environments (Juniper, Arista, Cisco) and configuring firewalls (Juniper SRX, Palo Alto), including VPNs, URL filtering, and IDS/IPS.
+
+Used tools like Wireshark, Splunk, SNMP, NetFlow, and RADIUS for diagnostics, monitoring, and log analysis to ensure network performance and security.
 
    
 
