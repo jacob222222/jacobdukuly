@@ -37,6 +37,11 @@ I'm a Cybersecurity Associate student with hands on experience in network setup,
 ###  Log Parsing Automation
   Created Python scripts to extract and analyze system logs for suspicious activities.
   Resulted in 40% faster incident review.
+  
+###AI Threat Detection System
+Developed an AI-based threat detection system that analyzes network and system data to identify potential security breaches in real-time. Leveraged machine learning models to classify suspicious activities and reduce false positives. Integrated alerting mechanisms for immediate response.
+Tech: Python, Scikit-learn, TensorFlow, SIEM tools
+
 
 More coming soon...
 
