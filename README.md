@@ -25,7 +25,7 @@ I'm a Cybersecurity Associate student with hands on experience in network setup,
 
 ##  Projects
 
-
+Please Check my public repository to see my open sample projects
 
 #Field Service Security Systems Simulator
 Developed a Python tool to simulate service issue intake, dispatch, and performance tracking for security systems. Created audit reports, site transfer checklists, and tracked SLAs for resolution times.
