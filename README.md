@@ -74,7 +74,10 @@ Used tools like Wireshark, Splunk, SNMP, NetFlow, and RADIUS for diagnostics, mo
   Fundamentals of Machine Learning ✅
   Cloud Concepts & Benefits ✅
 
-   
+##Education
+Houston Community College Transfer to Lone Star College 
+ BAT in Networking & Cybersecurity  Transferred— Expected December 2026 
+
 
 ##  Contact
  Email: dukulyjacob2@gmail.com  
