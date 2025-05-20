@@ -1,11 +1,10 @@
 # jacobdukuly
-#My Portfolio
-Portfolio is here due to broken link from on portfolio website(cyberhint.tech/jacob).
+My Portfolio is here due to broken link from  portfolio website(cyberhint.tech/jacob).
 #If you face difficulty with the above link, please see my portfolio here instead. 
 
 #  Jacob Dukuly
 
-Aspiring Cybersecurity Analyst | Networking Enthusiast | Python Scripter
+Aspiring Cybersecurity Analyst | Networking Enthusiast | Python Scripter | Cybersecurity Blogger and Researcher
 
 
 
