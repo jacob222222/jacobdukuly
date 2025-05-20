@@ -1,6 +1,6 @@
 # jacobdukuly
 #My Portfolio
-Portfolio are here due to broken link from on portfolio website(cyberhint.tech/jacob).
+Portfolio is here due to broken link from on portfolio website(cyberhint.tech/jacob).
 #If you face difficulty with the above link, please see my portfolio here instead. 
 
 #  Jacob Dukuly
@@ -25,10 +25,15 @@ I'm a Cybersecurity Associate student with hands on experience in network setup,
 
 ##  Projects
 
-### Raspberry Pi Surveillance System
-  Built a basic motion detecting camera system using a Raspberry Pi and open source tools.
-  Configured local storage and alerts.
-  Tech: Python, Motion, Linux
+
+
+#Field Service Security Systems Simulator
+Developed a Python tool to simulate service issue intake, dispatch, and performance tracking for security systems. Created audit reports, site transfer checklists, and tracked SLAs for resolution times.
+Technologies: Python, CSV, Markdown
+
+#Raspberry Pi Surveillance System
+Built a motion detection-based surveillance system using Raspberry Pi, integrating camera setup and automated alerts for security monitoring.
+Technologies: Raspberry Pi, Python, Motion Detection Software
 
 ### Campus Wi Fi Deployment
   Deployed secure Wi Fi for 100+ users as part of an internship with Duke Developers.
