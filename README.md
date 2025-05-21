@@ -1,92 +1,149 @@
-# jacobdukuly
-My Portfolio is here due to broken link from  portfolio website(cyberhint.tech/jacob).
-#If you face difficulty with the above link, please see my portfolio here instead. 
+<!-- Portfolio for Jacob Dukuly -->
 
-#  Jacob Dukuly
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity%20Student-blue?style=for-the-badge&logo=graduation-cap" alt="Cybersecurity Student">
+  <img src="https://img.shields.io/badge/Location-Texas-success?style=for-the-badge&logo=mapbox" alt="Location">
+  <img src="https://img.shields.io/badge/Internship-Open%20to%20Opportunities-yellow?style=for-the-badge&logo=briefcase" alt="Internship">
+</p>
 
-Aspiring Cybersecurity Analyst | Networking Enthusiast | Python Scripter | Cybersecurity Blogger and Researcher
+<h1 align="center">Jacob Dukuly</h1>
+<p align="center"><b>Aspiring Cybersecurity Analyst | Networking Enthusiast | Python Scripter | Cybersecurity Blogger & Researcher</b></p>
 
+---
 
+<p align="center">
+  <a href="mailto:dukulyjacob2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/jacobdukuly" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/jacob222222" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github" alt="GitHub">
+  </a>
+</p>
 
-##  About Me
-I'm a Cybersecurity  student with hands on experience in network setup, security systems, and log analysis. My goal is to secure infrastructure and respond to real world threats with scalable, practical solutions. I'm currently studying in Texas and open to internship opportunities. I am very dynamic and detail-oriented engineering student with hands-on experience in programming, commissioning, and maintaining technical security systems across diverse environments. Adept at managing service operations, troubleshooting system issues, and collaborating with engineering teams to uphold global security standards. Passionate about optimizing operational processes to support organizational growth and mission-critical security needs.
+---
 
-   
+## 🚀 About Me
 
-## Technical Skills
-- **Security Threat analysis, access control, log parsing
-- **Networking: TCP/IP, routing, DNS, DHCP, wireless config
-- **Tools: Wireshark, Splunk, Kali Linux, Cisco Packet Tracer
-- **Languages: Python (strong), Bash (intermediate), Java (basic)
-- **Systems: Windows Server, Linux, Raspberry Pi
+I'm a dynamic and detail-oriented cybersecurity student with hands-on experience in network setup, security systems, and log analysis. My goal is to secure infrastructure and respond to real-world threats with scalable, practical solutions.  
+Currently studying in Texas and open to internship opportunities. Adept at managing service operations, troubleshooting system issues, and collaborating with engineering teams to uphold global security standards. Passionate about optimizing operational processes to support organizational growth and mission-critical security needs.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Security & Threat Analysis:** Access control, log parsing, incident response
+- **Networking:** TCP/IP, routing, DNS, DHCP, VLANs, PoE, wireless config
+- **Tools:** Wireshark, Splunk, Kali Linux, Cisco Packet Tracer, SolarWinds, OpManager, Ansible, NetBox
+- **Languages:** Python (strong), Bash (intermediate), Java (basic)
+- **Systems:** Windows Server, Linux, Raspberry Pi
 - **Security Systems:** LenelS2, Honeywell, Genetec, Avigilon, Bosch (VMS, Access Control)
-- **Low Voltage Electrical Systems:** Design, installation, testing, and troubleshooting
-- **Tools:** Multimeter, cable testers, punch-down tools, power drills
-- **Networking:** TCP/IP, VLANs, PoE, device provisioning
+- **Low Voltage Electrical:** Design, installation, troubleshooting
 - **Documentation:** SOPs, service records, invoice management, audit reports
-- **Digital Forensics Tools & Techniques: FTK, Autopsy, EnCase, Volatility, Cellebrite, Wireshark, log2timeline, memory/disk imaging, timeline, registry, mobile, and network forensics.
-- **Scripting & Platforms: Python, PowerShell, Bash, Windows/Linux internals, SIEM (Splunk/ELK), Sysinternals, RegRipper, TSK, VM analysis, cloud log forensics (AWS/Azure).
+- **Digital Forensics:** FTK, Autopsy, EnCase, Volatility, Cellebrite, log2timeline, memory/disk imaging, network/mobile forensics
+- **Scripting & Platforms:** PowerShell, SIEM (Splunk/ELK), Sysinternals, RegRipper, TSK, cloud forensics (AWS/Azure)
 
-  
+---
 
-##  Projects
+## 🧩 Projects
 
-Please Check my public repository to see my open sample projects
+- **Field Service Security Systems Simulator**  
+  Developed a Python tool to simulate service issue intake, dispatch, and performance tracking for security systems. Created audit reports, site transfer checklists, and tracked SLAs for resolution times.  
+  _Tech: Python, CSV, Markdown_
 
-#Field Service Security Systems Simulator
-Developed a Python tool to simulate service issue intake, dispatch, and performance tracking for security systems. Created audit reports, site transfer checklists, and tracked SLAs for resolution times.
-Technologies: Python, CSV, Markdown
+- **Raspberry Pi Surveillance System**  
+  Built a motion detection-based surveillance system using Raspberry Pi, integrating camera setup and automated alerts for security monitoring.  
+  _Tech: Raspberry Pi, Python, Motion Detection Software_
 
-#Raspberry Pi Surveillance System
-Built a motion detection-based surveillance system using Raspberry Pi, integrating camera setup and automated alerts for security monitoring.
-Technologies: Raspberry Pi, Python, Motion Detection Software
+- **Campus Wi-Fi Deployment**  
+  Deployed secure Wi-Fi for 100+ users as part of an internship with Duke Developers. Configured routers, managed subnets, and monitored usage.
 
-### Campus Wi Fi Deployment
-  Deployed secure Wi Fi for 100+ users as part of an internship with Duke Developers.
-  Configured routers, managed subnets, and monitored usage.
+- **Log Parsing Automation**  
+  Created Python scripts to extract and analyze system logs for suspicious activities. Resulted in 40% faster incident review.
 
-###  Log Parsing Automation
-  Created Python scripts to extract and analyze system logs for suspicious activities.
-  Resulted in 40% faster incident review.
-  
-###AI Threat Detection System
-Developed an AI-based threat detection system that analyzes network and system data to identify potential security breaches in real-time. Leveraged machine learning models to classify suspicious activities and reduce false positives. Integrated alerting mechanisms for immediate response.
-Tech: Python, Scikit-learn, TensorFlow, SIEM tools
+- **AI Threat Detection System**  
+  Developed an AI-based threat detection system that analyzes network and system data to identify potential security breaches in real-time. Used machine learning to reduce false positives and integrated alerting for immediate response.  
+  _Tech: Python, Scikit-learn, TensorFlow, SIEM tools_
 
+> _More coming soon..._  
+> 👉 **Check my [public repositories](https://github.com/jacob222222?tab=repositories) for code samples!**
 
-More coming soon...
+---
 
-   
+## 💼 Experience
 
-## 🔹 Experience
+### Network Intern – Duke Developers  
+_Spring 2024_
 
-###  Network Intern – Duke Developers
-Spring 2024
+- Installed and configured wireless systems for campus network
+- Managed physical setup and team coordination
+- Supported Tier 1–3 network operations by provisioning, implementing, and validating services
+- Managed enterprise network infrastructures (SolarWinds, OpManager, Ansible, NetBox, cloud-based solutions)
+- Worked with Layer 2/3 protocols (OSPF, BGP, VLANs, VRRP, EVPN-VXLAN)
+- Performed infrastructure cabling in virtualized environments
+- Developed automation scripts (Python, Bash, Terraform)
+- Managed multi-vendor environments (Juniper, Arista, Cisco)
+- Configured firewalls (Juniper SRX, Palo Alto), VPNs, URL filtering, IDS/IPS
+- Used Wireshark, Splunk, SNMP, NetFlow, RADIUS for diagnostics, monitoring, and log analysis
+### Security  Intern  
+**Inter Digital Solutions**  
+_May 2023 – August 2023_
 
- Installed and configured wireless systems for campus network
- Managed physical setup and team coordination
+- Managed intake and triage of service issues and end-user requests for 30+ client sites, maintaining 95%+ SLA compliance
+- Completed initial technical reviews and troubleshooting, reducing escalations by 40%
+- Provided detailed remediation instructions to field engineers, ensuring rapid on-site resolution
+- Coordinated with engineering teams for site commissioning & validation
+- Maintained comprehensive service documentation (site photos, service logs, invoices)
+- Developed & updated knowledge base, improving onboarding and resolution time by 25%
 
-Supported Tier 1–3 network operations by provisioning, implementing, and validating networking services. Managed enterprise network infrastructures using tools like SolarWinds, OpManager, Ansible, NetBox, and cloud-based solutions. Worked extensively with Layer 2/3 protocols (e.g., OSPF, BGP, VLANs, VRRP, EVPN-VXLAN) and performed infrastructure cabling in virtualized environments.
+### Campus Security Systems Assistant  
+**Code Creek Academy**  
+Jan 2023 – March 2023_
 
-Developed automation scripts using Python, Bash, and Terraform to enhance deployment and monitoring. Demonstrated strong skills in managing multi-vendor environments (Juniper, Arista, Cisco) and configuring firewalls (Juniper SRX, Palo Alto), including VPNs, URL filtering, and IDS/IPS.
+- Supported installation & maintenance of campus access control and CCTV systems
+- Used industry-standard tools and safety practices to ensure compliance
+- Created user guides and conducted staff training on security systems
 
-Used tools like Wireshark, Splunk, SNMP, NetFlow, and RADIUS for diagnostics, monitoring, and log analysis to ensure network performance and security.
+---
 
-   
+## 🎓 Education
 
-## Certifications
-  CompTIA CySA+ ✅
-  CompTIA Networking+ ✅
-  Networking Fundamentals ✅
-  Fundamentals of Machine Learning ✅
-  Cloud Concepts & Benefits ✅
+**Houston Community College** _(Transfer)_ → **Lone Star College**  
+_BAT in Networking & Cybersecurity (Expected December 2026)_
 
-##Education
-Houston Community College Transfer to Lone Star College 
- BAT in Networking & Cybersecurity  Transferred— Expected December 2026 
+---
 
-##  Contact
- Email: dukulyjacob2@gmail.com  
- Phone: (346) 634 1860  
- Based in Texas | Open to relocation
+## 🏅 Certifications
 
+- CompTIA CySA+ ✅
+- CompTIA Network+ ✅
+- Networking Fundamentals ✅
+- Fundamentals of Machine Learning ✅
+- Cloud Concepts & Benefits ✅
+
+---
+
+## 📞 Contact
+
+- **Email:** dukulyjacob2@gmail.com  
+- **Phone:** (346) 634 1860  
+- **Location:** Houston, Texas (Open to relocation)  
+- **LinkedIn:** [linkedin.com/in/jacobdukuly](https://www.linkedin.com/in/jacobdukuly)  
+- **Portfolio:** [cyberhint.tech/jacob](http://cyberhint.tech/jacob) _(If the link is broken, you're already in the right place!)_
+
+---
+
+<p align="center">
+  <a href="mailto:dukulyjacob2@gmail.com" style="background-color:#0078D7;color:#fff;padding:10px 24px;text-decoration:none;border-radius:5px;font-weight:bold;">Contact Me</a>
+  <a href="https://www.linkedin.com/in/jacobdukuly" style="background-color:#0A66C2;color:#fff;padding:10px 24px;text-decoration:none;border-radius:5px;font-weight:bold;">Connect on LinkedIn</a>
+  <a href="https://github.com/jacob222222" style="background-color:#24292e;color:#fff;padding:10px 24px;text-decoration:none;border-radius:5px;font-weight:bold;">View My GitHub</a>
+</p>
+
+---
+
+<details>
+<summary>References</summary>
+Available upon request.
+</details>
