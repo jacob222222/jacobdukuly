@@ -50,7 +50,14 @@ Currently studying in Texas and open to internship opportunities. Adept at manag
 ## 🧩 Projects
 
 - **Field Service Security Systems Simulator**  
-  Developed a Python tool to simulate service issue intake, dispatch, and performance tracking for security systems. Created audit reports, site transfer checklists, and tracked SLAs for resolution times.  
+
+  Designed and simulated enterprise-grade security systems using Bosch BIS, BVMS, and Configuration Manager—integrating video surveillance, access control, and alarms into a unified     
+  platform with zero hardware.
+
+  Engineered end-to-end solutions** with AutoCAD, SQL Server, and BIS tools, delivering real-time automation, compliance auditing, and scalable infrastructure trusted in mission-critical 
+  environments.
+
+  Developed a Python tool to simulate service issue intake, dispatch, and performance tracking for security systems. Created audit reports, site transfer checklists, and tracked SLAs for   resolution times.  
   _Tech: Python, CSV, Markdown_
 
 - **Raspberry Pi Surveillance System**  
