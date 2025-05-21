@@ -77,6 +77,8 @@ Currently studying in Texas and open to internship opportunities. Adept at manag
 ### Network Intern – Duke Developers  
 _Spring 2024_
 
+- I use tools like **Bosch Configuration Manager, BVMS, and BIS Simulator** to design, configure, and test integrated security systems (video, access control, alarms) in a simulated or real environment.
+- I learn to **centralize control**, automate responses, manage databases, and create detailed site layouts using **AutoCAD/Visio**, ensuring secure and efficient deployments.
 - Installed and configured wireless systems for campus network
 - Managed physical setup and team coordination
 - Supported Tier 1–3 network operations by provisioning, implementing, and validating services
