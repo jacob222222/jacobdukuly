@@ -25,14 +25,14 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a dynamic and detail-oriented cybersecurity student with hands-on experience in network setup, security systems, and log analysis. My goal is to secure infrastructure and respond to real-world threats with scalable, practical solutions.  
 Currently studying in Texas and open to internship opportunities. Adept at managing service operations, troubleshooting system issues, and collaborating with engineering teams to uphold global security standards. Passionate about optimizing operational processes to support organizational growth and mission-critical security needs.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 - **Security & Threat Analysis:** Access control, log parsing, incident response
 - **Networking:** TCP/IP, routing, DNS, DHCP, VLANs, PoE, wireless config
@@ -47,7 +47,7 @@ Currently studying in Texas and open to internship opportunities. Adept at manag
 
 ---
 
-## 🧩 Projects
+##  Projects
 
 - **Field Service Security Systems Simulator**  
 
@@ -79,7 +79,7 @@ Currently studying in Texas and open to internship opportunities. Adept at manag
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### Network Intern – Duke Developers  
 _Spring 2024_
@@ -100,12 +100,12 @@ _Spring 2024_
 **Inter Digital Solutions**  
 _May 2023 – August 2023_
 
-- Managed intake and triage of service issues and end-user requests for 30+ client sites, maintaining 95%+ SLA compliance
-- Completed initial technical reviews and troubleshooting, reducing escalations by 40%
-- Provided detailed remediation instructions to field engineers, ensuring rapid on-site resolution
-- Coordinated with engineering teams for site commissioning & validation
-- Maintained comprehensive service documentation (site photos, service logs, invoices)
-- Developed & updated knowledge base, improving onboarding and resolution time by 25%
+- Managed intake and triage of service requests for over 30 client sites using ServiceNow, consistently maintaining 95%+ SLA compliance.
+- Performed initial technical troubleshooting using Genetec Security Center, reducing issue escalations by 40%.
+- Delivered detailed remediation instructions to field engineers based on diagnostic data from Milestone XProtect.
+- Collaborated with engineering teams during site commissioning and validation, organizing all workflows in Smartsheet.
+- Maintained structured documentation—including site photos, service logs, and invoices—using SharePoint.
+- Built and updated a comprehensive knowledge base in Confluence, improving onboarding and average resolution time by 25%.
 
 ### Campus Security Systems Assistant  
 **Code Creek Academy**  
