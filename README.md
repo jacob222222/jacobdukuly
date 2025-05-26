@@ -81,6 +81,8 @@ Currently studying in Texas and open to internship opportunities. Adept at manag
 
 ##  Experience
 
+
+
 ### Network Intern – Duke Developers  
 _Spring 2024_
 
@@ -97,6 +99,17 @@ _Spring 2024_
 - Managed multi-vendor environments (Juniper, Arista, Cisco)
 - Configured firewalls (Juniper SRX, Palo Alto), VPNs, URL filtering, IDS/IPS
 - Used Wireshark, Splunk, SNMP, NetFlow, RADIUS for diagnostics, monitoring, and log analysis
+
+### Freelence SOC Trainer 
+**LetsDefend**  
+Jan 2024 – present
+
+- Designed and delivered practical, hands-on SOC training content covering threat detection, incident response, and log analysis
+- Created real-world cybersecurity labs using SIEM tools to simulate attacker behaviors and enhance analyst skills
+- Mentored learners on SOC workflows, triage techniques, and threat hunting best practices
+- Contributed to improving platform content quality by aligning with current industry threats and tools
+---
+
 ### Security  Intern  
 **Inter Digital Solutions**  
 _May 2023 – August 2023_
