@@ -83,8 +83,9 @@ Currently studying in Texas and open to internship opportunities. Adept at manag
 
 
 
-### Network Intern – Duke Developers  
-_Spring 2024_
+### 
+Physical Security Engineer Intern – Duke Developers  
+_Spring 2025_
 
 - Deployed a secure campus Wi-Fi system for over 100 users and led the onsite network setup, gaining hands-on experience with physical device configuration and team coordination.
 - I use tools like **Bosch Configuration Manager, BVMS, and BIS Simulator** to design, configure, and test integrated security systems (video, access control, alarms) in a simulated or real environment.
