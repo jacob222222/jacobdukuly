@@ -82,7 +82,16 @@ Currently studying in Texas and open to internship opportunities. Adept at manag
 ##  Experience
 
 
+### 
+Research Intern - High Performance(HPC) Data Management & Security | Oak Ridge National Laboratory  
+_Summer 2025_
 
+- Gaining hands-on experience with Frontier, the world's fastest supercomputer.
+- Learning and testing data storage systems and data transfer tools at scale.
+- INvestigation data management security concerns and performance optimization
+- creating and updating user documentation and tutorials for the OLCF user community
+
+  
 ### 
 Physical Security Engineer Intern – Duke Developers  
 _Spring 2025_
