@@ -88,7 +88,7 @@ _Summer 2025_
 
 - Gaining hands-on experience with Frontier, the world's fastest supercomputer.
 - Learning and testing data storage systems and data transfer tools at scale.
-- INvestigation data management security concerns and performance optimization
+- INvestigating data management security concerns and performance optimization
 - creating and updating user documentation and tutorials for the OLCF user community
 
   
