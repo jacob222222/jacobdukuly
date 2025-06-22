@@ -11,6 +11,14 @@
 
 ---
 
+## 🏅 Certifications
+
+- CompTIA CySA+ ✅
+- CompTIA Network+ ✅
+- Networking Fundamentals ✅
+- Fundamentals of Machine Learning ✅
+- Cloud Concepts & Benefits ✅
+
 <p align="center">
   <a href="mailto:dukulyjacob2@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail" alt="Email">
@@ -112,7 +120,7 @@ Physical Security Engineer Intern – Duke Developers
 
 ### Freelence SOC Trainer 
 **LetsDefend**  
-Jan 2024 – present
+
 
 - Designed and delivered practical, hands-on SOC training content covering threat detection, incident response, and log analysis
 - Created real-world cybersecurity labs using SIEM tools to simulate attacker behaviors and enhance analyst skills
@@ -122,7 +130,7 @@ Jan 2024 – present
 
 ### Security  Intern  
 **Inter Digital Solutions**  
-_May 2023 – August 2023_
+
 
 - Managed intake and triage of service requests for over 30 client sites using ServiceNow, consistently maintaining 95%+ SLA compliance.
 - Performed initial technical troubleshooting using Genetec Security Center, reducing issue escalations by 40%.
@@ -133,7 +141,7 @@ _May 2023 – August 2023_
 
 ### Campus Security Systems Assistant  
 **Code Creek Academy**  
-Jan 2023 – March 2023_
+
 
 - Supported installation & maintenance of campus access control and CCTV systems
 - Used industry-standard tools and safety practices to ensure compliance
@@ -148,13 +156,7 @@ _BAT in Networking & Cybersecurity (Expected December 2026)_
 
 ---
 
-## 🏅 Certifications
 
-- CompTIA CySA+ ✅
-- CompTIA Network+ ✅
-- Networking Fundamentals ✅
-- Fundamentals of Machine Learning ✅
-- Cloud Concepts & Benefits ✅
 
 ---
 
