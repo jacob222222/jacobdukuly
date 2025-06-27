@@ -52,7 +52,23 @@ Currently studying in Texas and open to internship opportunities. Adept at manag
 - **Documentation:** SOPs, service records, invoice management, audit reports
 - **Digital Forensics:** FTK, Autopsy, EnCase, Volatility, Cellebrite, log2timeline, memory/disk imaging, network/mobile forensics
 - **Scripting & Platforms:** PowerShell, SIEM (Splunk/ELK), Sysinternals, RegRipper, TSK, cloud forensics (AWS/Azure)
-
+- **Experience in project management or coordination.  
+- **Experience in using marketing technology is a plus. 
+- **Basic understanding of networking fundamentals (e.g., TCP/IP, DNS, DHCP) 
+- **Familiarity with Windows Server and Linux operating systems 
+- **Experience or coursework with virtual machines and virtualization platforms 
+- **Proficiency with PowerShell or other command-line interfaces 
+- **Awareness of IT security principles, including firewalls and access control 
+- **Strong problem-solving and analytical skills 
+- **Excellent written and verbal communication skills 
+- **Ability to work independently and as part of a team 
+- **Security & Systems: Access control systems, low-voltage electrical systems (familiar), 
+- **video surveillance systems (basic knowledge) 
+- **Security Standards: ISO 27001, ISO 27701, NIST CSF 
+- **Compliance & Governance: Risk identification, ISMS fundamentals, control 
+documentation 
+- **Technical Tools: Microsoft Office Suite (Word, Excel, PowerPoint), basic scripting (e.g., 
+Python or Bash), GRC tools (ServiceNow GRC or similar) 
 ---
 
 ##  Projects
