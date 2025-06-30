@@ -42,33 +42,17 @@ Currently studying in Texas and open to internship opportunities. Adept at manag
 
 ##  Technical Skills
 
-- **Security & Threat Analysis:** Access control, log parsing, incident response
-- **Networking:** TCP/IP, routing, DNS, DHCP, VLANs, PoE, wireless config
-- **Tools:** Wireshark, Splunk, Kali Linux, Cisco Packet Tracer, SolarWinds, OpManager, Ansible, NetBox
-- **Languages:** Python (strong), Bash (intermediate), Java (basic)
-- **Systems:** Windows Server, Linux, Raspberry Pi
-- **Security Systems:** LenelS2, Honeywell, Genetec, Avigilon, Bosch (VMS, Access Control)
-- **Low Voltage Electrical:** Design, installation, troubleshooting
-- **Documentation:** SOPs, service records, invoice management, audit reports
-- **Digital Forensics:** FTK, Autopsy, EnCase, Volatility, Cellebrite, log2timeline, memory/disk imaging, network/mobile forensics
-- **Scripting & Platforms:** PowerShell, SIEM (Splunk/ELK), Sysinternals, RegRipper, TSK, cloud forensics (AWS/Azure)
-- **Experience in project management or coordination.  
-- **Experience in using marketing technology is a plus. 
-- **Basic understanding of networking fundamentals (e.g., TCP/IP, DNS, DHCP) 
-- **Familiarity with Windows Server and Linux operating systems 
-- **Experience or coursework with virtual machines and virtualization platforms 
-- **Proficiency with PowerShell or other command-line interfaces 
-- **Awareness of IT security principles, including firewalls and access control 
-- **Strong problem-solving and analytical skills 
-- **Excellent written and verbal communication skills 
-- **Ability to work independently and as part of a team 
-- **Security & Systems: Access control systems, low-voltage electrical systems (familiar), 
-- **video surveillance systems (basic knowledge) 
-- **Security Standards: ISO 27001, ISO 27701, NIST CSF 
-- **Compliance & Governance: Risk identification, ISMS fundamentals, control 
-documentation 
-- **Technical Tools: Microsoft Office Suite (Word, Excel, PowerPoint), basic scripting (e.g., 
-Python or Bash), GRC tools (ServiceNow GRC or similar) 
+- **Operating Systems:** Windows Server 2019, Ubuntu 22.04, Kali Linux, Raspberry Pi
+- **Virtualization Platforms:** VMware Workstation, VirtualBox
+- **Scripting & Automation:** PowerShell, Python, Bash, Ansible
+- **Networking:** TCP/IP, DHCP, DNS, VLANs, PoE, wireless configuration
+- **Network Tools:** Cisco Packet Tracer, SolarWinds, OpManager, NetBox
+- **Security Tools:** Wireshark, Splunk, SIEM (Splunk/ELK), Sysinternals, RegRipper
+- **Forensics Tools:** FTK, Autopsy, EnCase, Volatility, Cellebrite, log2timeline, TSK
+- **Access Control & Surveillance:** LenelS2, Honeywell, Genetec, Avigilon, Bosch
+- **Compliance & GRC:** ISO 27001, ISO 27701, NIST CSF, ServiceNow GRC
+- **Business & Marketing Tech:** RATS CRM, Google Email Marketing
+- **Documentation:** SOPs, audit reports, service records, invoice tracking
 ---
 
 ##  Projects
