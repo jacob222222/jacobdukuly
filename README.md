@@ -112,8 +112,8 @@ Research Intern - High Performance(HPC) Data Management & Security | Oak Ridge N
 - Contributed to improving platform content quality by aligning with current industry threats and tools
 ---
 
-### Security  Intern  
-**Inter Digital Solutions**  
+### Network & Security  Intern  
+**Dukedevelopers**  
 
 
 - Managed intake and triage of service requests for over 30 client sites using ServiceNow, consistently maintaining 95%+ SLA compliance.
@@ -122,21 +122,26 @@ Research Intern - High Performance(HPC) Data Management & Security | Oak Ridge N
 - Collaborated with engineering teams during site commissioning and validation, organizing all workflows in Smartsheet.
 - Maintained structured documentation—including site photos, service logs, and invoices—using SharePoint.
 - Built and updated a comprehensive knowledge base in Confluence, improving onboarding and average resolution time by 25%.
-
-### Campus Security Systems Assistant  
-**Code Creek Academy**  
-
-
-- Supported installation & maintenance of campus access control and CCTV systems
-- Used industry-standard tools and safety practices to ensure compliance
-- Created user guides and conducted staff training on security systems
+- Deployed a secure campus Wi-Fi system for over 100 users and led the onsite network setup, gaining hands-on experience with physical device configuration and team coordination.
+- I use tools like **Bosch Configuration Manager, BVMS, and BIS Simulator** to design, configure, and test integrated security systems (video, access control, alarms) in a simulated or real environment.
+- I learn to **centralize control**, automate responses, manage databases, and create detailed site layouts using **AutoCAD/Visio**, ensuring secure and efficient deployments.
+- Installed and configured wireless systems for campus network
+- Managed physical setup and team coordination
+- Supported Tier 1–3 network operations by provisioning, implementing, and validating services
+- Managed enterprise network infrastructures (SolarWinds, OpManager, Ansible, NetBox, cloud-based solutions)
+- Worked with Layer 2/3 protocols (OSPF, BGP, VLANs, VRRP, EVPN-VXLAN)
+- Performed infrastructure cabling in virtualized environments
+- Developed automation scripts (Python, Bash, Terraform)
+- Managed multi-vendor environments (Juniper, Arista, Cisco)
+- Configured firewalls (Juniper SRX, Palo Alto), VPNs, URL filtering, IDS/IPS
+- Used Wireshark, Splunk, SNMP, NetFlow, RADIUS for diagnostics, monitoring, and log analysis
 
 ---
 
 ## 🎓 Education
 
 **Houston Community College** _(Transfer)_ → **Lone Star College**  
-_BAT in Networking & Cybersecurity (Expected December 2026)_
+_BAT in  Cybersecurity (Expected December 2026)_
 
 ---
 
