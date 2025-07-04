@@ -100,23 +100,7 @@ Research Intern - High Performance(HPC) Data Management & Security | Oak Ridge N
 - creating and updating user documentation and tutorials for the OLCF user community
 
   
-### 
-Physical Security Engineer Intern – Duke Developers  
 
-
-- Deployed a secure campus Wi-Fi system for over 100 users and led the onsite network setup, gaining hands-on experience with physical device configuration and team coordination.
-- I use tools like **Bosch Configuration Manager, BVMS, and BIS Simulator** to design, configure, and test integrated security systems (video, access control, alarms) in a simulated or real environment.
-- I learn to **centralize control**, automate responses, manage databases, and create detailed site layouts using **AutoCAD/Visio**, ensuring secure and efficient deployments.
-- Installed and configured wireless systems for campus network
-- Managed physical setup and team coordination
-- Supported Tier 1–3 network operations by provisioning, implementing, and validating services
-- Managed enterprise network infrastructures (SolarWinds, OpManager, Ansible, NetBox, cloud-based solutions)
-- Worked with Layer 2/3 protocols (OSPF, BGP, VLANs, VRRP, EVPN-VXLAN)
-- Performed infrastructure cabling in virtualized environments
-- Developed automation scripts (Python, Bash, Terraform)
-- Managed multi-vendor environments (Juniper, Arista, Cisco)
-- Configured firewalls (Juniper SRX, Palo Alto), VPNs, URL filtering, IDS/IPS
-- Used Wireshark, Splunk, SNMP, NetFlow, RADIUS for diagnostics, monitoring, and log analysis
 
 ### Freelence SOC Trainer 
 **LetsDefend**  
