@@ -1,5 +1,5 @@
 <!-- Portfolio for Jacob Dukuly -->
-![Jacob Dukuly]([your-image-url-here](https://github.com/jacob222222/jacobdukuly/blob/main/headshot.jpg))
+
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity%20Student-blue?style=for-the-badge&logo=graduation-cap" alt="Cybersecurity Student">
   <img src="https://img.shields.io/badge/Location-Texas-success?style=for-the-badge&logo=mapbox" alt="Location">
