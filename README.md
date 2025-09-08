@@ -55,7 +55,7 @@ Currently studying in Texas and open to internship opportunities. Adept at manag
 - **Documentation:** SOPs, audit reports, service records, invoice tracking
 ---
 
-##  Projects
+##  Projects( Most personal projects will not be posted due to data privacy, but can be shown during interview )
 
 - **Field Service Security Systems Simulator**  
 
